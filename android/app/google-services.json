@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609728203103",
+    "project_id": "esm3ni-bc4d2",
+    "storage_bucket": "esm3ni-bc4d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609728203103:android:aa073ab61681b0317b4eea",
+        "android_client_info": {
+          "package_name": "com.example.adaptive_speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609728203103-7ajm0l3umm1bar55543tejam9b7kvgqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKYMJfW-KUN4VWdevAl74U1MsqwcsmS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609728203103-7ajm0l3umm1bar55543tejam9b7kvgqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
